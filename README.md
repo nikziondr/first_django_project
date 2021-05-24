@@ -1,2 +1,2 @@
 # first_django_project
-!(Capture.PNG)
+!(https://github.com/nikziondr/first_django_project/blob/main/Capture.PNG)
