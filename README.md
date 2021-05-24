@@ -1,2 +1,2 @@
 # first_django_project
-!(Capture.png)
+!(Capture.PNG)
